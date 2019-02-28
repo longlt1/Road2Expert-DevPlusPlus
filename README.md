@@ -8,4 +8,6 @@ http://tutorials.jenkov.com/java-concurrency/volatile.html
 
 http://www2.sys-con.com/itsg/virtualcd/java/archives/0808/chaudhri/index.html
 
+https://sourcemaking.com/design-patterns-and-tips
 
+https://www.ibm.com/developerworks/library/j-codetoheap/index.html
