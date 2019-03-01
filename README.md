@@ -11,3 +11,5 @@ http://www2.sys-con.com/itsg/virtualcd/java/archives/0808/chaudhri/index.html
 https://sourcemaking.com/design-patterns-and-tips
 
 https://www.ibm.com/developerworks/library/j-codetoheap/index.html
+
+https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688
